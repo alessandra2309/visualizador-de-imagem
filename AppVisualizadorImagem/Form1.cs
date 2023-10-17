@@ -17,9 +17,45 @@ namespace AppVisualizadorImagem
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void showButton_Click(object sender, EventArgs e)
         {
+           
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pictureBox1.Load(openFileDialog1.FileName);
+            }
+        }
 
+        private void bt_fechar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void bt_definirCor_Click(object sender, EventArgs e)
+        {
+            if (colorDialog1.ShowDialog() == DialogResult.OK)
+                pictureBox1.BackColor = colorDialog1.Color;
+        }
+
+        private void bt_limpar_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = null;
+        }
+
+        private void bt_mostrarIMAGEM_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pictureBox1.Load(openFileDialog1.FileName);
+            }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+                pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            else
+                pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
         }
     }
 }
