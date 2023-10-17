@@ -1,0 +1,11 @@
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\bin\Debug\AppVisualizadorImagem.exe.config
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\bin\Debug\AppVisualizadorImagem.exe
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\bin\Debug\AppVisualizadorImagem.pdb
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.Form1.resources
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.Properties.Resources.resources
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.csproj.GenerateResource.cache
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.exe
+C:\Users\2022102020045\source\repos\AppVisualizadorImagem\AppVisualizadorImagem\obj\Debug\AppVisualizadorImagem.pdb
